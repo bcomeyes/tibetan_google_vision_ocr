@@ -2,3 +2,5 @@
 Compact OCR project built on Google Cloud with Google Vision 
 
 Store tibetan script image files on Google Cloud Storage and have them converted to Tibetan script .txt files.
+
+This .py file converted example_tibetan_OCR_input.png image to example_tibetan_OCR_output.txt
